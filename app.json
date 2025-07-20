@@ -8,6 +8,7 @@
     "scheme": "donewithit",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "description": "A marketplace app to list, discover and buy used items easily.",
     "ios": {
       "supportsTablet": true
     },
@@ -37,6 +38,18 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4836b1b1-a460-454f-9fa4-36619a5ba3f7"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4836b1b1-a460-454f-9fa4-36619a5ba3f7"
     }
   }
 }
